@@ -45,10 +45,10 @@ experience into an adventure of elegance, power, and reliability.
 
 <hr>
 <b><u>ScreenShots</u></b>
-<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/1.png" alt="Girl in a jacket" width="300" height="200">
-<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/3.png " alt="Girl in a jacket" width="300" height="200">
-<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/9.png " alt="Girl in a jacket" width="300" height="200">
-<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/11.png " alt="Girl in a jacket" width="300" height="200">
-<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/13.png " alt="Girl in a jacket" width="300" height="200">
-<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/14.png " alt="Girl in a jacket" width="300" height="200">
+<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/1.png" alt="Girl in a jacket" width="600" height="400">
+<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/3.png " alt="Girl in a jacket" width="600" height="400">
+<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/9.png " alt="Girl in a jacket" width="600" height="400">
+<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/11.png " alt="Girl in a jacket" width="600" height="400">
+<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/13.png " alt="Girl in a jacket" width="600" height="400">
+<img src="https://github.com/Qadirdad-Kazi/JavaFX-Showroom-Application/blob/javaFX-Showroom-screenshots-recording-demo/14.png " alt="Girl in a jacket" width="600" height="400">
 
